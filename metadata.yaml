@@ -1,10 +1,16 @@
 _repo: Sir-Isaac-Brock_49214
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49214-h/images/cover.jpg
 creator:
   author:
     agent_name: Eayrs, Hugh S.
     gutenberg_agent_id: '45198'
     url: http://www.gutenberg.org/2009/agents/45198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49214#Sir-Isaac-Brock
 gutenberg_issued: '2015-06-14'
 gutenberg_type: Text
 identifiers:
